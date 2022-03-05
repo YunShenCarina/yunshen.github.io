@@ -1,4 +1,10 @@
-## Welcome to Yun Shen's portfolio
+## Welcome to Yun Shen's portfolio!
+
+A marketing analyst,
+a story teller,
+a music lover
+
+[LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
 You can use the [editor on GitHub](https://github.com/YunShenCarina/yunshen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
