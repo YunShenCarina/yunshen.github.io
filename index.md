@@ -1,8 +1,10 @@
 ## Welcome to Yun Shen's portfolio!
 
-A marketing analyst,
-a story teller,
-a music lover
+- A marketing analyst
+- A story teller
+- A music lover
+
+![Image](/yunshen-github-pages/assets/Yun Shen.jpg)
 
 [LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
