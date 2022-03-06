@@ -6,7 +6,7 @@
 
 I am a self-motivated individual with a passion for marketing analytics. As a continuous learner, I keep learning new R, Python, SQL, and Google Analytics skillsets. As a team player, I enjoyed communication and collaboration with diversified teams to translate data into valuable business insights and tell the story of data.  
 
-![Image](Yun Shen-2.jpg width="400" height="600")
+![Image](<img src="" width=50% height=50%>)
 
 [LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
