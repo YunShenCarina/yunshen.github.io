@@ -1,4 +1,4 @@
-## Welcome to Yun Shen's portfolio!
+# Welcome to Yun Shen's portfolio!
 
 - A marketing analyst
 - A story teller
@@ -8,15 +8,16 @@
 
 [LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
-You can use the [editor on GitHub](https://github.com/YunShenCarina/yunshen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+### New Product Conjoint Analysis for Toy Horse (R & Tableau)
 
 ```markdown
+- Generated product line recommendation to maximize profit through market share simulation for toy horse company.
+- Performed K-Means cluster analysis to divide customers into segmentations for potential unreached segments.
+- Conducted conjoint analysis solving software issue for 4000+ rows of rating data and simulated 40 scenarios of company and competitor’s profits and market share.
+- Visualized and presented profit-maximizing product mix to non-technical clients, increasing market share by 35% and profits by 40.5% while accounting for competitor response and cannibalization.
+```
+
 Syntax highlighted code block
 
 # Header 1
@@ -32,14 +33,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YunShenCarina/yunshen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
