@@ -15,7 +15,7 @@
 > - Conducted conjoint analysis solving software issue for 4000+ rows of rating data and simulated 40 scenarios of company and competitor’s profits and market share.
 > - Visualized and presented profit-maximizing product mix to non-technical clients, increasing market share by 35% and profits by 40.5% while accounting for competitor response and cannibalization.
 
-![](Toy Horse slides2_ccexpress.png)
+![](Toy Horse slides2_ccexpress-2.png)
 
 ```markdown
 ```
