@@ -9,7 +9,7 @@
 [LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
 ## Projects
-### New Product Conjoint Analysis for Toy Horse (R & Tableau)
+### [New Product Conjoint Analysis for Toy Horse (R & Tableau)](https://rpubs.com/yunshen/874187)
 
 ```markdown
 - Generated product line recommendation to maximize profit through market share simulation for toy horse company.
