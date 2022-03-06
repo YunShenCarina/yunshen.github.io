@@ -4,7 +4,7 @@
 - A story teller
 - A music lover
 
-![Image](/gh-pages/assets/Yun Shen..jpg)
+![Image](/docs/assets/Yun Shen.jpg)
 
 [LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
