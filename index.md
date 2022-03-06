@@ -1,10 +1,12 @@
 # Welcome to Yun Shen's portfolio!
 
+I am 
 - A marketing analyst
 - A story teller
 - A music lover
 
-I am a self-motivated individual with a passion for marketing analytics. As a continuous learner, I keep learning new R, Python, SQL, and Google Analytics skillsets. As a team player, I enjoyed communication and collaboration with diversified teams to translate data into valuable business insights and tell the story of data.  
+>I am a self-motivated individual with a passion for marketing analytics. As a continuous learner, I keep learning new R, Python, SQL, and Google Analytics
+>skillsets. As a team player, I enjoyed communication and collaboration with diversified teams to translate data into valuable business insights and tell the story >of data.  
 
 ![](Yun Shen_ccexpress.jpeg)
 
