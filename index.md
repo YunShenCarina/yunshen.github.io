@@ -23,8 +23,6 @@ I am a self-motivated individual with a passion for marketing analytics. As a co
 ```markdown
 ```
 
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
