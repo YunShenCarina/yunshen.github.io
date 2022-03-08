@@ -24,3 +24,5 @@
 > - Designed survey and performed factor analysis on survey of 300 respondents to reduce dimensions for 3 mediators, including perceived value, relationship quality, and customer loyalty.
 > - Validated hypotheses and built a multi-mediation model through regression analysis.
 
+![](Picture1_ccexpress.png)
+
