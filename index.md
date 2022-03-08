@@ -18,31 +18,9 @@
 
 ![](Toy Horse slides2_ccexpress-2.png)
 
-### Facebook Ads Experiment (Excel, R & Tableau)
-
-> - Developed ad strategies to increase click-per-dollar by running regressions on 3000+ rows of digital experiment data.
-> - Increased click-per-dollar by 30% by adjusting placement (changing from desktop to mobile) and enhancing call-to-action (replacing keywords of e-commerce ads.).
-> - Presented social media optimization strategies to client using charts and dashboards created via Tableau and Excel.
-
-### The Impact of Relationship Marketing on Online Bookstores (SPSS, Excel)
+### [The Impact of Relationship Marketing on Online Bookstores (SPSS, Excel)](https://drive.google.com/file/d/18xAEwumRgFQr19_82c1mIDahJYtrlCKM/view?usp=sharing)
 
 > - Hypothesized causal relationship of relationship marketing on purchase intention through extensive literature reviews.
 > - Designed survey and performed factor analysis on survey of 300 respondents to reduce dimensions for 3 mediators, including perceived value, relationship quality, and customer loyalty.
 > - Validated hypotheses and built a multi-mediation model through regression analysis.
 
-```markdown
-```
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
