@@ -30,3 +30,5 @@
 
 > - Built data warehouse by joining 8 tables and created dashboard using customer data, aggregating data sources for ad-hoc analysis.
 > - Queried data warehouse to discover insights of potential managerial challenges and white space opportunities, including over-use of discounts, inefficient shippers, and segmentation of consumers based on spending.  
+
+![](SQL.png)
