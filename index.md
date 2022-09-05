@@ -9,6 +9,13 @@
 [LinkedIn profile](https://www.linkedin.com/in/yun-shen-carina/)
 
 ## Projects
+### [Customer Analysis: Data Warehouse Building and Visualization (SQL & Tableau)](https://public.tableau.com/app/profile/yun.shen.carina/viz/CustomerAnalysis_16477202783490/Dashboard1)
+
+> - Built data warehouse by joining 8 tables and created dashboard using customer data, aggregating data sources for ad-hoc analysis.
+> - Queried data warehouse to discover insights of potential managerial challenges and white space opportunities, including over-use of discounts, inefficient shippers, and segmentation of consumers based on spending.  
+
+![](SQL.png)
+
 ### [New Product Conjoint Analysis for Toy Horse (R & Tableau)](https://rpubs.com/yunshen/874187)
 
 > - Generated product line recommendation to maximize profit through market share simulation for toy horse company.
@@ -25,10 +32,3 @@
 > - Validated hypotheses and built a multi-mediation model through regression analysis.
 
 ![](Picture1_ccexpress.png)
-
-### [Customer Analysis: Data Warehouse Building and Visualization (SQL & Tableau)](https://public.tableau.com/app/profile/yun.shen.carina/viz/CustomerAnalysis_16477202783490/Dashboard1)
-
-> - Built data warehouse by joining 8 tables and created dashboard using customer data, aggregating data sources for ad-hoc analysis.
-> - Queried data warehouse to discover insights of potential managerial challenges and white space opportunities, including over-use of discounts, inefficient shippers, and segmentation of consumers based on spending.  
-
-![](SQL.png)
