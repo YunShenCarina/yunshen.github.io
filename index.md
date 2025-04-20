@@ -1,8 +1,6 @@
 # Welcome to Yun Shen's portfolio!
 
->I am a self-motivated individual with a passion for marketing analytics. As a continuous learner, I keep learning new R, Python, SQL, and Google Analytics
->skillsets. As a team player, I enjoyed communication and collaboration with diversified teams to translate data into valuable business insights and tell the story
->of data.  
+> I’m a Business Growth Analyst passionate about turning complex data into actionable strategies that drive results. With 2+ years of hands-on experience in marketing analytics, business intelligence, and data storytelling, I help companies uncover insights that fuel consumer growth and revenue expansion. I thrive at the intersection of marketing, data, and tech — whether that’s through A/B testing ad campaigns, automating workflows, or analyzing customer lifecycles.
 
 ![](Yun Shen_ccexpress.jpeg)
 
