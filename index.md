@@ -35,4 +35,5 @@
 
 > - Conducted descriptive and regression analysis to uncover attributions of popular songs on Spotify using Python, including energy, danceability, and loudness.
 
-![]()
+![Spotify analysis](https://github.com/user-attachments/assets/901eddea-5584-42bc-b493-6123d7f851ff)
+
