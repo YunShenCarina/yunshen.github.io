@@ -30,3 +30,9 @@
 > - Validated hypotheses and built a multi-mediation model through regression analysis.
 
 ![](Picture1_ccexpress.png)
+
+### [Attribution of Popular Songs on Spotify (Python, Excel)](https://docs.google.com/presentation/d/15-LGSk9G0VY9mYDZZm8XzNvudGMD_6B3/edit?usp=sharing&ouid=103697932353389361355&rtpof=true&sd=true)
+
+> - Conducted descriptive and regression analysis to uncover attributions of popular songs on Spotify using Python, including energy, danceability, and loudness.
+
+![]()
